@@ -1,0 +1,45 @@
+﻿30 найдовших анотацій; слова: 302 – 365
+chunks-fixed чанків: 62 середній розмір: 180.0
+
+ chunks-fixed machine learning for images
+0.9169 Analysing high resolution digital Mars images using machine learning The search for ephemeral liquid water on Mars is an ongoing activity. After the recession of the seasonal polar ice cap on Mars, small water ice patch
+0.9061 AffWild Net and Aff-Wild Database the wild" emotions recognition concept, design a new dataset which has as a standard the "Aff-wild" database, implement new deep learning models and e
+0.8972 Analysing high resolution digital Mars images using machine learning convolutional neural network (CNN) is applied to find further images with potential water ice patches in the latitude band between -40{\deg} and -60{\
+0.8838 AffWild Net and Aff-Wild Database Emotions recognition is the task of recognizing people's emotions. Usually it is achieved by analyzing expression of peoples faces. There are two ways
+0.872 Narrow Decision Models: A System-1 Architecture for Calibrated, Typed Decisions and runs a bidirectional encoder under a block attention mask with logical positions, so that each answer is, by construction, invariant to the order 
+
+ chunks-fixed quantum field theory
+0.8505 Mars orientation and rotation angles The rotation and orientation of Mars is commonly described using two different sets of angles, namely the Euler angles wrt the Mars orbit plane and th
+0.848 Identification of target system operations. 1. Determination of the time of the actual completion of the target operation determined not by the physics of the process, but its cybernetics. Since for the time of the operation, conversion processes link input products in ti
+0.8444 First Families of Regular Polygons and their Mutations the algebraic complexity C(N) = EulerPhi(N)/2 so every regular N-gon will have C(N) distinct dual pairs and hence C(N)-1 invariant regions. The bounda
+0.8438 Identification of target system operations. 1. Determination of the time of the actual completion of the target operation It was found in the paper that the time frames of the studied system operation depend on the research objective. In cases when it comes to problems, r
+0.8431 Mars orientation and rotation angles signals observed in the high-accuracy data acquired from the surface of Mars. In addition, we present good practices to build an accurate Martian rota
+
+ chunks-fixed physics of black holes
+0.8648 The most luminous blue quasars at 3.0<z<3.3. II. CIV/X-ray emission and accretion disc physics both X-ray weak and X-ray normal quasars, as well as the correlation between X-ray weakness and CIV EW. In contrast to some recent work, we do not obs
+0.8598 The 999th Swift gamma-ray burst: Some like it thermal by a density profile scaling with the distance from the source (wind profile). A remarkable feature of the prompt emission is the presence of a bright
+0.8596 The most luminous blue quasars at 3.0<z<3.3. II. CIV/X-ray emission and accretion disc physics We analyse the properties of the CIV broad emission line in connection with the X-ray emission of 30 bright SDSS quasars at z~3.0-3.3 with pointed XMM
+0.8576 Massive stellar triples on the edge: A numerical study of the evolution and final outcomes of destabilized massive triples Massive stars reside predominantly in triples or higher-order multiples. Their lives can be significantly affected by three-body interactions, making 
+0.8548 New Measurements of the Ionizing Ultraviolet Background over 2 < z < 5 and Implications for Hydrogen Reionization We present new measurements of the intensity of the ionizing ultraviolet background and the global emissivity of ionizing photons over 2 < z < 5. Our 
+chunks-semantic чанків: 62 середній розмір: 164.6
+
+ chunks-semantic machine learning for images
+0.9225 Analysing high resolution digital Mars images using machine learning The search for ephemeral liquid water on Mars is an ongoing activity. After the recession of the seasonal polar ice cap on Mars, small water ice patch
+0.9122 AffWild Net and Aff-Wild Database First, already existing databases and deep learning models are presented. Then, inspired by them a new database is created which includes 507.208 fram
+0.8999 Analysing high resolution digital Mars images using machine learning In this study, a convolutional neural network (CNN) is applied to find further images with potential water ice patches in the latitude band between -4
+0.8818 AffWild Net and Aff-Wild Database Emotions recognition is the task of recognizing people's emotions. Usually it is achieved by analyzing expression of peoples faces. There are two ways
+0.8693 Narrow Decision Models: A System-1 Architecture for Calibrated, Typed Decisions The architecture serializes a request as a prefix tree (the state, then each question, then each option) and runs a bidirectional encoder under a bloc
+
+ chunks-semantic quantum field theory
+0.8529 Mars orientation and rotation angles The rotation and orientation of Mars is commonly described using two different sets of angles, namely the Euler angles wrt the Mars orbit plane and th
+0.8451 Identification of target system operations. 1. Determination of the time of the actual completion of the target operation It was found in the paper that the time frames of the studied system operation depend on the research objective. In cases when it comes to problems, r
+0.8418 Mars orientation and rotation angles In addition, we present good practices to build an accurate Martian rotation model over a long time span (30 years around J2000) or over a shorter one
+0.8415 Massive stellar triples on the edge: A numerical study of the evolution and final outcomes of destabilized massive triples Massive stars reside predominantly in triples or higher-order multiples. Their lives can be significantly affected by three-body interactions, making 
+0.8407 First Families of Regular Polygons and their Mutations The Invariance Conjecture of Appendix II says that that every dual S[k] pair with at least k or k' co-prime with N will survive in W and the number of
+
+ chunks-semantic physics of black holes
+0.8612 The most luminous blue quasars at 3.0<z<3.3. II. CIV/X-ray emission and accretion disc physics In contrast to some recent work, we do not observe any clear relation between the 2-10 keV luminosity and $\upsilon_{\rm peak}$. We find a correlation
+0.8603 New Measurements of the Ionizing Ultraviolet Background over 2 < z < 5 and Implications for Hydrogen Reionization We present new measurements of the intensity of the ionizing ultraviolet background and the global emissivity of ionizing photons over 2 < z < 5. Our 
+0.86 The most luminous blue quasars at 3.0<z<3.3. II. CIV/X-ray emission and accretion disc physics We analyse the properties of the CIV broad emission line in connection with the X-ray emission of 30 bright SDSS quasars at z~3.0-3.3 with pointed XMM
+0.858 Massive stellar triples on the edge: A numerical study of the evolution and final outcomes of destabilized massive triples Massive stars reside predominantly in triples or higher-order multiples. Their lives can be significantly affected by three-body interactions, making 
+0.856 The 999th Swift gamma-ray burst: Some like it thermal A remarkable feature of the prompt emission is the presence of a bright flare 100 s after the trigger, lasting 70 seconds in the soft X-ray band, whic

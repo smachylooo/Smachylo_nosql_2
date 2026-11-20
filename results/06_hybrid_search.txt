@@ -1,0 +1,60 @@
+﻿
+QUERY: BERT fine-tuning
+BM25
+  6513 Question answering system of bridge design specification based on large language model 
+  4425 Fine-Tuning Transformers for Identifying Self-Reporting Potential Cases and Symptoms of COVID-19 in Tweets 
+  5186 Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection 
+  4270 BinaryBERT: Pushing the Limit of BERT Quantization 
+  6307 Crowdsourcing with Enhanced Data Quality Assurance: An Efficient Approach to Mitigate Resource Scarcity Challenges in Training Large Language Models for Healthcare 
+vector
+  8044 Agentic Trading: When LLM Agents Meet Financial Markets 
+  5510 Human-Inspired Framework to Accelerate Reinforcement Learning 
+  7577 Stabilizing Policy Gradient Methods via Reward Profiling 
+  8060 Constraint-Anchored Attribution: Feasibility-Certified Counterfactuals and Bonferroni-PAC Sufficient Subsets for Neural CO Policies 
+  8311 Rethinking Self-Evolving Agents: Do We Still Need Prescribed Optimization Pipelines? 
+RRF
+  6513 Question answering system of bridge design specification based on large language model 0.01639
+  8044 Agentic Trading: When LLM Agents Meet Financial Markets 0.01639
+  4425 Fine-Tuning Transformers for Identifying Self-Reporting Potential Cases and Symptoms of COVID-19 in Tweets 0.01613
+  5510 Human-Inspired Framework to Accelerate Reinforcement Learning 0.01613
+  5186 Z-BERT-A: a zero-shot Pipeline for Unknown Intent detection 0.01587
+
+QUERY: Yann LeCun convolutional networks
+BM25
+  1039 Convolutional Neural Networks Applied to House Numbers Digit Classification 
+  3792 Computational optimization of convolutional neural networks using separated filters architecture 
+  5480 Spatial Bias for Attention-free Non-local Neural Networks 
+  5065 Dual Convexified Convolutional Neural Networks 
+  3666 Comb Convolution for Efficient Convolutional Architecture 
+vector
+  3009 Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs 
+  3859 Neural Architecture Search for Lightweight Non-Local Networks 
+  4164 Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks 
+  2145 Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks 
+  4981 Deep Learning and Artificial General Intelligence: Still a Long Way to Go 
+RRF
+  3009 Competitive Learning Enriches Learning Representation and Accelerates the Fine-tuning of CNNs 0.03068
+  1039 Convolutional Neural Networks Applied to House Numbers Digit Classification 0.01639
+  3792 Computational optimization of convolutional neural networks using separated filters architecture 0.01613
+  3859 Neural Architecture Search for Lightweight Non-Local Networks 0.01613
+  4164 Review and Comparison of Commonly Used Activation Functions for Deep Neural Networks 0.01587
+
+QUERY: making computers understand human emotions from text
+BM25
+  6041 DepressionEmo: A novel dataset for multilabel classification of depression emotions 
+  2948 Deep learning for affective computing: text-based emotion recognition in decision support 
+  5119 Emoji-based Fine-grained Attention Network for Sentiment Analysis in the Microblog Comments 
+  4137 Embedded Emotions -- A Data Driven Approach to Learn Transferable Feature Representations from Raw Speech Input for Emotion Recognition 
+  5886 MolCA: Molecular Graph-Language Modeling with Cross-Modal Projector and Uni-Modal Adapter 
+vector
+  2948 Deep learning for affective computing: text-based emotion recognition in decision support 
+  4137 Embedded Emotions -- A Data Driven Approach to Learn Transferable Feature Representations from Raw Speech Input for Emotion Recognition 
+  6204 UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause 
+  4451 Arthur: a new ECA that uses Memory to improve Communication 
+  6041 DepressionEmo: A novel dataset for multilabel classification of depression emotions 
+RRF
+  2948 Deep learning for affective computing: text-based emotion recognition in decision support 0.03252
+  6041 DepressionEmo: A novel dataset for multilabel classification of depression emotions 0.03178
+  4137 Embedded Emotions -- A Data Driven Approach to Learn Transferable Feature Representations from Raw Speech Input for Emotion Recognition 0.03175
+  5119 Emoji-based Fine-grained Attention Network for Sentiment Analysis in the Microblog Comments 0.01587
+  6204 UniMEEC: Towards Unified Multimodal Emotion Recognition and Emotion Cause 0.01587
